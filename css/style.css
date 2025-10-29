@@ -159,7 +159,7 @@ body {
 .btn-secondary {
     background: transparent;
     color: var(--text-dark);
-    border-color: white;
+    border-color: var(--accent-color);
 }
 
 .btn-secondary:hover {
